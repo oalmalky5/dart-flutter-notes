@@ -41,3 +41,11 @@ with ```appBar: AppBar()``` the scaffold function gives the ability to create an
 this AppBar can be configurered and changed by using proprites 
 i.e  ```backgroundColor``` widget
 refer to material design for  more color     
+
+
+
+String myStr = "Hello";
+System.out.println(myStr.contains("Hel"));   // true
+System.out.println(myStr.contains("e"));     // true
+System.out.println(myStr.contains("Hi"));    // false
+ 
